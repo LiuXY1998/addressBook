@@ -7,9 +7,6 @@ $(function () {
            name:"赵时杰",tell:18406581111,py:'zhaoshijie'
        },
        {
-           name:"刘勇",tell:18406581234,py:'liuyong'
-       },
-       {
            name:"王佳乐",tell:18435151234,py:'wangjiale'
        },
        {
